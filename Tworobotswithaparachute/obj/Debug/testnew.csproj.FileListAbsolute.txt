@@ -1,0 +1,18 @@
+/Users/berkealtindis1997/Projects/testnew/testnew/obj/Debug/testnew.csproj.AssemblyReference.cache
+/Users/berkealtindis1997/Projects/testnew/testnew/obj/Debug/testnew.csproj.CoreCompileInputs.cache
+/Users/berkealtindis1997/Projects/testnew/testnew/bin/Debug/testnew.exe
+/Users/berkealtindis1997/Projects/testnew/testnew/bin/Debug/testnew.pdb
+/Users/berkealtindis1997/Projects/testnew/testnew/obj/Debug/testnew.exe
+/Users/berkealtindis1997/Projects/testnew/testnew/obj/Debug/testnew.pdb
+/Users/berkealtindis1997/Desktop/sonhali/bin/Debug/testnew.exe
+/Users/berkealtindis1997/Desktop/sonhali/bin/Debug/testnew.pdb
+/Users/berkealtindis1997/Desktop/sonhali/obj/Debug/testnew.csproj.AssemblyReference.cache
+/Users/berkealtindis1997/Desktop/sonhali/obj/Debug/testnew.csproj.CoreCompileInputs.cache
+/Users/berkealtindis1997/Desktop/sonhali/obj/Debug/testnew.exe
+/Users/berkealtindis1997/Desktop/sonhali/obj/Debug/testnew.pdb
+/Users/berkealtindis1997/Desktop/Berke Altındiş/bin/Debug/testnew.exe
+/Users/berkealtindis1997/Desktop/Berke Altındiş/bin/Debug/testnew.pdb
+/Users/berkealtindis1997/Desktop/Berke Altındiş/obj/Debug/testnew.csproj.AssemblyReference.cache
+/Users/berkealtindis1997/Desktop/Berke Altındiş/obj/Debug/testnew.csproj.CoreCompileInputs.cache
+/Users/berkealtindis1997/Desktop/Berke Altındiş/obj/Debug/testnew.exe
+/Users/berkealtindis1997/Desktop/Berke Altındiş/obj/Debug/testnew.pdb
